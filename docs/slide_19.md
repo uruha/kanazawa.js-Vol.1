@@ -1,0 +1,1 @@
+# ESLint / Prettier を使うと、JavaScript の書き方で疲弊しない！

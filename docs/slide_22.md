@@ -1,0 +1,1 @@
+# 楽して JavaScript<br>書きましょう！
